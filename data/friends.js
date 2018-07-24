@@ -1,7 +1,7 @@
 var friends = [
 	{
 		name: "Drake",
-		photo: "http://www.buzzdefou.com/wp-content/uploads/2016/04/drake-caronne.png",
+		photo: "http://www.slate.com/content/dam/slate/articles/arts/music_box/2016/05/160502_MUSIC_Drake-6.jpg.CROP.promo-xlarge2.jpg",
 		scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
 	},
 	{
@@ -16,7 +16,7 @@ var friends = [
 	},
 	{
 		name: "beyonce",
-		photo: "https://avatars.mds.yandex.net/get-pdb/51720/40e7ea75-7af5-459a-a739-f406aa51ca3d/orig.jpg",
+		photo: "https://a4-images.myspacecdn.com/images04/9/2fd2f1d1a2b94df386f8f6c387bc0a95/300x300.jpg",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
